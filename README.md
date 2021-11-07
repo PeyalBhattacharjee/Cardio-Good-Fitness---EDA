@@ -4,7 +4,7 @@ The market research team at AdRight is assigned the task to identify the profile
 
 # Dataset
 
-[Named Link](https://www.kaggle.com/saurav9786/cardiogoodfitness/ "Kaggle") and http://www.google.fr/ or <http://example.com/>
+[Kaggle](https://www.kaggle.com/saurav9786/cardiogoodfitness/ "Kaggle")
 
 # Business Recommendations and Insights
 * TM195 & TM498 attracts people with income less than 60k , may be because of cost of both models. We should market these models as a budget Treadmill for all.
