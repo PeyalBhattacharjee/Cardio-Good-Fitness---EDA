@@ -27,9 +27,6 @@ The Dataset for the EDA project has been taken from Kaggle. Please click on the 
   - Which is most sold Model?
   - Are Male customers buying treadmill more than female customers?
   - What is the Income ,Age , Education of people buying treadmill?
-
-# Exploratory Data Analysis
-1. # Univariate Analysis
   - How many days and miles customer expect to run on treadmill?
   - What is the self rated fitness of customers buying treadmill?
   - Are married customer buying Treadmill more than Single customers?
@@ -41,3 +38,7 @@ The Dataset for the EDA project has been taken from Kaggle. Please click on the 
   - Does Martial status has any effect model customer buy?
   - Is there different age groups buying different models?
   - Relation between Age, Income and education and model bought?
+
+
+# Exploratory Data Analysis
+# 1. Univariate Analysis
