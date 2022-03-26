@@ -42,3 +42,38 @@ The Dataset for the EDA project has been taken from Kaggle. Please click on the 
 
 # Exploratory Data Analysis
 # 1. Univariate Analysis
+
+- Income is skewed towards right , Median is 50K , Mean is 55k and mode is $45K. Most of the customers are in lower pay range and earn less than 70K. Income has some outliers. Few customers earn beyond 80K.
+
+![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_1.PNG)
+
+- Age is skewed towards right. Customers buying treadmill are younger and average age of customer is 28 , median is 26 and mode is 25. Customers buying treadmill after age of 40 and before 20 are very less.
+
+![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_2.PNG)
+
+- Miles is skewed towards right. Customers expect to run on an average 80 miles per week. There are some outliers, where customers are expecting to run more than 200 miles per week.
+
+![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_3.PNG)
+
+- Most of the customers have self-rated their fitness as 3(average).
+
+![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_4.PNG)
+
+- 44.4% customers brought TM195. TM195 model is the most purchased model. TM498 was purchased more than TM798. 57.8% male brought Treadmill.There are more Male customers than Female customers. 59.4% of the customers who purchased treadmill are Married.
+
+![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_5.PNG)
+
+# 2. Bivariate Analysis
+
+- TM195 model was equally bought my Male and Female. Compared to females, male bought TM498 model. TM798 model is popular in Males than in female.
+
+![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_6.PNG)
+
+- Age and Income has some in significant correlation. Education and Income has very little correlation. There is some corelation between Usage and Income. Fitness and miles are corelated. TM798 model is correlated to Education, Usage,Fitness, Income and Miles. Miles and usage are positively correlated.
+
+![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_7.PNG)
+
+- There are many outliers for TM798 ,customers are more than age of 40. Age of customers buying TM195 and TM498 is between 20-35, where as customers buying TM798 are primarily in 25-30. Customers with higher income and more education have purchased TM798 model. Customers with lower income purchase TM195 and TM498 model may be because of cost of the Treadmill. Customer with TM 195 expect to use treadmill 3-4 times a week and have average self rated fitness as 3 and some unfits. Customers who bought TM498 model expecting to use Treadmill less frequently but to run more miles a week. Customer buying TM798 plan to use it more frequently , run more miles and have high self rated fitness .They seem to be more health conscious or professionals. TM 798 model was purchased more by males customer than female customers. More partnered customer tend to buy TM798 than Single customers.
+
+![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_8.PNG)
+![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_9.PNG)
