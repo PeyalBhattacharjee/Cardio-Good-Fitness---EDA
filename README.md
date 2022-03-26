@@ -77,3 +77,23 @@ The Dataset for the EDA project has been taken from Kaggle. Please click on the 
 
 ![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_8.PNG)
 ![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_9.PNG)
+
+- Partnered customer expects to run more miles compared to single. Income of Partnered customer is more than income of single customer. Age of Partnered customer is more than Age of single customer. There are more single males buying Treadmill than single Females. Self rated Fitness of both Partnered and Single customer are same.
+Education of both Partnered and Single customer is same.
+
+![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_10.PNG)
+
+# 3. Multivariate Analysis
+
+- Male customer with higher income ,bought TM798 Model and expect to use treadmill 4-6 /week. Customer who bought TM195 and TM498 are in same income range and expect to use treadmill 3-4 /week.
+
+![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_11.PNG)
+
+- Partnered Female bought TM195 Model compared to Partnered male. Single Female customers bought TM498 model more than Single male customers. Partnered Male customers bought TM798 model more than Single Male customers. There are more single males buying Treadmill than single Females. Single Male customers bought TM195 Model compared to Single Female. Majority of people who buy the TM798 are man & partnered. The majority of our buyers are man.
+
+![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_12.PNG)
+![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_13.PNG)
+
+- Products TM195 and TM498 are bought by people with lower than 70K as income and age is concentrated more in range of 23-35. Product TM798 is mainly bought by people with higher than 70K income and age falls in range of 23-30. -Majority of people who buys the TM798 expect that they will run more than consumers of the other two products, on average.
+
+![image](https://raw.githubusercontent.com/PeyalBhattacharjee/Cardio-Good-Fitness---EDA/main/Images/Capture_14.PNG)
